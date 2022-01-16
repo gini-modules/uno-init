@@ -1,0 +1,9 @@
+{
+    "name": "UNO初始化",
+    "description": "UNO初始化",
+    "version": "0.1.0",
+    "dependencies": {
+        "gini": "2"
+    }
+}
+
